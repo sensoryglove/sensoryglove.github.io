@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Documents
-permalink: /documents/
+title: Task List
+permalink: /tasklist/
 ---
 {% include tasks.html %}
